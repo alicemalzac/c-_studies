@@ -1,0 +1,14 @@
+/Users/alicemalzac/Documents/Projetos/Project.NET/bin/Debug/net8.0/Project.NET
+/Users/alicemalzac/Documents/Projetos/Project.NET/bin/Debug/net8.0/Project.NET.deps.json
+/Users/alicemalzac/Documents/Projetos/Project.NET/bin/Debug/net8.0/Project.NET.runtimeconfig.json
+/Users/alicemalzac/Documents/Projetos/Project.NET/bin/Debug/net8.0/Project.NET.dll
+/Users/alicemalzac/Documents/Projetos/Project.NET/bin/Debug/net8.0/Project.NET.pdb
+/Users/alicemalzac/Documents/Projetos/Project.NET/obj/Debug/net8.0/Project.NET.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alicemalzac/Documents/Projetos/Project.NET/obj/Debug/net8.0/Project.NET.AssemblyInfoInputs.cache
+/Users/alicemalzac/Documents/Projetos/Project.NET/obj/Debug/net8.0/Project.NET.AssemblyInfo.cs
+/Users/alicemalzac/Documents/Projetos/Project.NET/obj/Debug/net8.0/Project.NET.csproj.CoreCompileInputs.cache
+/Users/alicemalzac/Documents/Projetos/Project.NET/obj/Debug/net8.0/Project.NET.dll
+/Users/alicemalzac/Documents/Projetos/Project.NET/obj/Debug/net8.0/refint/Project.NET.dll
+/Users/alicemalzac/Documents/Projetos/Project.NET/obj/Debug/net8.0/Project.NET.pdb
+/Users/alicemalzac/Documents/Projetos/Project.NET/obj/Debug/net8.0/Project.NET.genruntimeconfig.cache
+/Users/alicemalzac/Documents/Projetos/Project.NET/obj/Debug/net8.0/ref/Project.NET.dll
